@@ -4,7 +4,7 @@ import {
   container,
   heading,
   navLinks,
-  NavLinkItem,
+  navLinkItem,
   navLinkText,
 } from "./layout.module.css";
 
